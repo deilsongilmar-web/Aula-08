@@ -16,7 +16,7 @@ O objetivo é centralizar minha atuação profissional em uma única e responsiv
 
 ## ✨ Principais Funcionalidades
 
-* **Menu de Navegação Dinâmico:** Seção de "Serviços" com um Submenu detalhado para os serviços da Avante Solar.
+* **Menu de Navegação Dinâmico:** Seção de "Serviços" com um Submenu detalhado para os serviços da DL MENDES SERVIÇOS.
 * **Informações de Contato:** Acesso rápido a telefone e redes sociais (@DL_MENDES_SERVICOS).
 * **Identidade Visual:** Uso da biblioteca de ícones **Phosphor Icons** para clareza visual.
 * **Metadados Otimizados:** Tags `<meta>` e Open Graph (OG) configuradas para melhor indexação e compartilhamento (SEO).

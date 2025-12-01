@@ -1,15 +1,15 @@
 
 
-# ⚡ DeilsonGilmar-Web | Avante Solar - Portfólio & Serviços
+# ⚡ DeilsonGilmar-Web | DL MENDES SERVIÇOS- Portfólio & Serviços
 
 
 ![Image](https://github.com/user-attachments/assets/f4150c24-765b-41c6-a1ed-56921bdaa16b)
 
 ## 🚀 Sobre o Projeto
 
-Este repositório contém o código-fonte do website **Avante Solar**, que serve como a plataforma principal para a divulgação dos meus serviços profissionais, divididos em duas grandes áreas:
+Este repositório contém o código-fonte do website **DL MENDES SERVIÇOS**, que serve como a plataforma principal para a divulgação dos meus serviços profissionais, divididos em duas grandes áreas:
 
-1.  **Avante Solar:** Serviços especializados em Energia Solar, Instalações Elétricas Residenciais/Prediais e Carregadores Veiculares.
+1.  **DL MENDES SERVIÇOS:** Serviços especializados em Energia Solar, Instalações Elétricas Residenciais/Prediais e Carregadores Veiculares.
 2.  **Programador Junior:** Meu portfólio e serviços de desenvolvimento web, incluindo Criação de Sites, Aplicativos e soluções em Computação em Nuvem.
 
 O objetivo é centralizar minha atuação profissional em uma única e responsiva plataforma.
